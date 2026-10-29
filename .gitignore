@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.conf
+config.ini
+.env
+.DS_Store
+extract/cyberghostvpn_extracted/
+cg_config.json
+ca.crt
+*.bak.*
+.cg-rotate-*
+extract/cg/
